@@ -1,12 +1,4 @@
 # PortofolioDibimbing
-Context
-Marks secured by the students
 
-Content
-This data set consists of the marks secured by the students in various subjects.
-
-Acknowledgements
-http://roycekimmons.com/tools/generated_data/exams
-
-Inspiration
-To understand the influence of the parents background, test preparation etc on students performance
+## Introduction
+Portofolio ini saya buat sebagai salah satu tugas proyek saya dalam mengikuti bootcamp untuk menjadi seorang data scientist. Saya mengerjakan portofolio ini untuk menunjukan kemampuan saya setelah mengikuti bootcamp hingga midtest. 
